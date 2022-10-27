@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @fahad-akhtar
-- 👀 I’m interested in coding & ethical hacking.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on web designing.
+- 👋 Hi, I’m Fahad
+-  I’m interested in coding & ethical hacking.
+-  I’m currently learning python.
 - 📫 How to reach me fahad201308@gmail.com
 
 <!---
